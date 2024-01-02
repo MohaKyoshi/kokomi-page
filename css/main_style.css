@@ -423,10 +423,10 @@ p, span{
     position: absolute;
     overflow: hidden;
     height: calc(100% - 140px); width: 100%;
-
-    mask: url("/../images/backgroundh.svg");
+    
+    mask: url("../images/backgroundh.svg");
     mask-size: cover;
-    -webkit-mask: url("/../images/backgroundh.svg");
+    -webkit-mask: url("../images/backgroundh.svg");
     -webkit-mask-size: cover;
     
     background-image: linear-gradient(-45deg, var(--black-clr), var(--purple-clr), var(--green-clr));
@@ -1494,8 +1494,9 @@ footer{
 }
 
 .footer_background p{
+    max-width: 800px;
     color: var(--white-clr);
-    font-size: xx-large;
+    font-size: 20px;
     background-color: #4b51a06d;
     padding: 10px;
     border-radius: 25px;
