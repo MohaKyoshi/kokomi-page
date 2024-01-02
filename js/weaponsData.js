@@ -12,16 +12,16 @@ export let weapons_name =[
 ];
 
 export let weapons_src = [
-    "/images/weapons/A Thousand Floating Dreams.webp",
-    "/images/weapons/Everlasting Moonglow.webp",
-    "/images/weapons/Jadefall's Splendor.webp",
-    "/images/weapons/Mappa Mare.webp",
-    "/images/weapons/Sacrificial Fragments.webp",
-    "/images/weapons/Fruit of Fulfillment.webp",
-    "/images/weapons/Hakushin Ring.webp",
-    "/images/weapons/Prototype Amber.webp",
-    "/images/weapons/Magic Guide.webp",
-    "/images/weapons/Thrilling Tales of Dragon Slayers.webp",
+    "images/weapons/A_Thousand_Floating_Dreams.webp",
+    "images/weapons/Everlasting_Moonglow.webp",
+    "images/weapons/Jadefalls_Splendor.webp",
+    "images/weapons/Mappa_Mare.webp",
+    "images/weapons/Sacrificial_Fragments.webp",
+    "images/weapons/Fruit_of_Fulfillment.webp",
+    "images/weapons/Hakushin_Ring.webp",
+    "images/weapons/Prototype_Amber.webp",
+    "images/weapons/Magic_Guide.webp",
+    "images/weapons/Thrilling_Tales_of_Dragon_Slayers.webp",
 ];
 
 export let weapons_rarity = [

@@ -1,2 +1,0 @@
-It will only work on a server because it has Modules
-You can use "Live Server" 

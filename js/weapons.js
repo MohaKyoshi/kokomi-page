@@ -1,4 +1,4 @@
-import { weapons_src, weapons_name, weapons_baseATK, weapons_source, weapons_describe, weapons_rarity, weapons_state } from "../js/weaponsData.js";
+import { weapons_src, weapons_name, weapons_baseATK, weapons_source, weapons_describe, weapons_rarity, weapons_state } from "./weaponsData.js";
 
 
 const weapon_cell = document.querySelectorAll(".weapon_cell");
